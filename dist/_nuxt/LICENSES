@@ -121,6 +121,15 @@
  * Released under the MIT License.
  */
 
+/*!
+ Transformation Matrix v2.0
+ (c) Epistemex 2014-2015
+ www.epistemex.com
+ By Ken Fyrstenberg
+ Contributions by leeoniya.
+ License: MIT, header required.
+ */
+
 /**
  * vuex v3.3.0
  * (c) 2020 Evan You
